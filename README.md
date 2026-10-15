@@ -370,7 +370,10 @@ No license has been specified yet. Add a `LICENSE` file before distributing the 
 
 ## Author
 
-Developed using React, TypeScript, Vite, and Tailwind CSS.
+Deepshikha Singh
+Pallavi Singh
+Yash Vardhan Ojha
+
 
 ---
 
